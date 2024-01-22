@@ -2,7 +2,7 @@
 -- version 4.8.0.1
 -- https://www.phpmyadmin.net/
 --
--- Host: 127.0.0.1
+-- Host: https://github.com/azzadi/sipusdalops.github.io
 -- Waktu pembuatan: 08 Jan 2024 pada 10.21
 -- Versi server: 10.1.32-MariaDB
 -- Versi PHP: 5.6.36
